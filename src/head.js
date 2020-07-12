@@ -12,6 +12,7 @@ class Head extends Component
                 <li>ABOUT</li>
                 <li>CONTACT</li>
                 <li>HELP</li>
+                <li>MAP</li>
         </ul>
 </div>
  )

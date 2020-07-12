@@ -9,7 +9,7 @@ class Customer extends Component
         <div className="part">
             <div className="customer-part"><div>customer</div></div>
             <div className="customer-part"><div>company</div></div>
-            <div className="customer-part"><div>Address</div></div>
+            <div className="customer-part"><div>Address new</div></div>
         </div>
         <div className="work">
             <div className="employe-part"><div>Work from Home</div></div>
